@@ -19,8 +19,8 @@ a{color:#000; text-decoration:none; outline:0 none;transition:all ease-in-out 0.
     -ms-transition:all ease-in-out 0.4s;-o-transition:all ease-in-out 0.4s;-webkit-transition:all ease-in-out 0.4s; display: inline-block;}
 a:hover									{color:#000; text-decoration:none;}
 
-.header-h2											{font-size:60px; line-height: 60px;}
-.header-h3											{font-size: 30px; line-height: 30px;}
+.header-h2											{font-size:60px; line-height: 60px;  color:#fff;}
+.header-h3											{font-size: 30px; line-height: 30px; color: #000;}
 .header-h4											{font-size: 25px; line-height:25px;}
 h5											{font-size:22px; line-height: 22px;}
 .header-h6											{font-size:17px; line-height:30px;}
